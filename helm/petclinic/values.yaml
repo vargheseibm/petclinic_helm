@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: initsixcloud/petclinic
-  tag: latest
+  repository: vargheseibm/petclinic
+  tag: 29
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
